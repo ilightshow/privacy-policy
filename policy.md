@@ -2,10 +2,13 @@
 
 iLightShow™ is an app developed by Nicolas Anjoran. This privacy policy explains how your data is used when you use an iLightShow™ app/service.
 
-## Summary
+
+## Summary 📝
 Your privacy is important to us, iLightShow only collects the minimum amount of data required to make the app/service work. Most of the data used by the app isn't collected at all and only used locally on your device (like the music playback or microphone audio levels).
 
-If you have any question, feel free to reach out to me at contact@ilightshow.net
+If you have any question, feel free to reach out to me at contact@ilightshow.net.
+
+<br><br><hr>
 
 ## What data do we collect, why and how do we collect it?
 
