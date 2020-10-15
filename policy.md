@@ -33,7 +33,7 @@ Transfers of your data are encrypted using the HTTPS protocol. Your data is stor
 
 ## Third-party services
 
-For the sole purpose of running and maintaining the app, we use some third-party services to protect and monitor the service, they collects some of your personal data, links to their privacy policy are available for each service. WE DO NOT SELL YOUR DATA.
+For the sole purpose of running and maintaining the app, we use some third-party services to protect and monitor the service, they collect personal data, links to their privacy policy are available for each service. WE DO NOT SELL YOUR DATA.
 
 ### Spotify
 Spotify is an audio content delivery service provided by Spotify AB that allows this Application to incorporate content of this kind on its pages.
