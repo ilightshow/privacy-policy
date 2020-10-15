@@ -32,42 +32,47 @@ Transfers of your data are encrypted using the HTTPS protocol. Your data is stor
 
 ### Spotify
 Spotify is an audio content delivery service provided by Spotify AB that allows this Application to incorporate content of this kind on its pages.
+
 Personal Data processed: Cookies; Usage Data.
 
 Place of processing: Sweden - [Privacy policy](https://www.spotify.com/us/legal/privacy-policy)
 
 ### Cloudflare
 Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.
+
 Personal Data processed: Cookies; various types of Data as specified in the [privacy policy of the service](https://www.cloudflare.com/privacypolicy/).
 
 Place of processing: USA
 
 ### iCloud
 iCloud is a storage service provided by Apple.
-Various types of Data as specified in their [privacy policy](https://www.apple.com/legal/privacy).
+
+Personal data processed: Various types of Data as specified in their [privacy policy](https://www.apple.com/legal/privacy).
 
 Place of processing: USA
 
 ### Firebase and Crashlytics
 Firebase and Crashlytics are monitoring services provided by Google LLC.
+
 Personal Data processed: various types of Data as specified in the [privacy policy of the service](https://policies.google.com/privacy).
 
 Place of processing: USA
 
 ### Hetzner 
 Hetzner is a hosting and backend service.
-Various types of Data as specified in their [privacy policy](https://www.hetzner.com/rechtliches/datenschutz).
+
+Personal data processed: Various types of Data as specified in their [privacy policy](https://www.hetzner.com/rechtliches/datenschutz).
 
 Place of processing: Germany
 
 ## What are your data protection rights?
-As a data subject, you have rights for this data, under certain conditions. Please visit the official [GDPR Website](https://gdpr-info.eu) for more information (Chapter "Rights of the data subject").
+As a data subject, you have rights, under certain conditions. Please visit the official [GDPR Website](https://gdpr-info.eu) for more information (Chapter "Rights of the data subject").
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: contact@ilightshow.net
 
-## Changes to our privacy policy
+## Privacy policy updates
 Nicolas Anjoran keeps the privacy policy of iLightShow™ under regular review and places any updates on this web page. This privacy policy was last updated on {{date}}.
 
-## Contact
+## Contact (Owner & Developer)
 Nicolas Anjoran (contact@ilightshow.net)
 
