@@ -1,4 +1,4 @@
-# Privacy Policy of **iLightShow**
+# Privacy Policy of [**iLightShow**](https://ilightshow.net)
 
 iLightShow™ is an app developed by Nicolas Anjoran. This privacy policy explains how your data is used when you use an iLightShow™ app/service.
 
