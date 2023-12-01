@@ -15,11 +15,6 @@ iLightShow™ is an app developed by Nicolas Anjoran. This privacy policy explai
 
 ## What data do we collect, why and how do we collect it?
 
-### Spotify username/ID
-If you use iLightShow™ with Spotify Connect, we automatically log you into iLightShow™ using the Spotify authentication service. After this step, your Spotify ID will be used to identify your iLightShow™ account. 
-
-This ID is stored in the server of iLightShow.
-
 ### IP address / Country
 Each time you use iLightShow™, the app contacts our servers. Each connection is logged to protect and debug the service (eg. protect the service against DDoS attacks).
 
@@ -41,9 +36,6 @@ For the sole purpose of running and maintaining the app, we use some third-party
 
 ### Spotify
 Spotify is an audio content delivery service provided by Spotify AB that allows this Application to incorporate content of this kind on its pages. They process your data in Sweden. Personal Data processed: Cookies; Usage Data as specified in their [privacy policy](https://www.spotify.com/us/legal/privacy-policy).
-
-### iCloud
-iCloud is a storage service provided by Apple. Place of processing: USA. Personal data processed: Various types of Data as specified in their [privacy policy](https://www.apple.com/legal/privacy).
 
 ### Hetzner
 Hetzner is a hosting and backend service. Personal data processed: Various types of Data as specified in their [privacy policy](https://www.hetzner.com/rechtliches/datenschutz). Place of processing: Germany
