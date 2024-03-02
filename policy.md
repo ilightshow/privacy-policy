@@ -20,6 +20,9 @@ Each time you use iLightShow™, the app contacts our servers. Each connection i
 
 This data is stored directly on the server(s) for a few days. In the event of abuse of the service from your IP address, the server will block your IP address for a short period of time.
 
+### Usage data (Analytics)
+iLightShow uses a custom made analytics system to track the usage of the app. This data is used to understand how the app is used and to improve it. This data is stored on our servers and is not shared with any third-party. This data is not linked to any personal information.
+
 ### System logs and maintenance
 For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose.
 
